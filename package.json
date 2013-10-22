@@ -1,6 +1,6 @@
 {
   "name": "express_example",
-  "version": "0.0.1"
+  "version": "0.0.1",
   "scripts": {
     "start": "node app.js"
   },
@@ -8,7 +8,7 @@
     "express": "3.4.2",
     "jade": "*",
     "stylus": "*"
-  }
+  },
   "engines": {
     "node": "0.10.x",
     "npm": "1.2.x"
